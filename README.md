@@ -1,5 +1,4 @@
-# DIO - Trilha .NET - API e Entity Framework
-www.dio.me
+# API e Entity Framework
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de API e Entity Framework, da trilha .NET da DIO.
